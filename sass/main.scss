@@ -1,0 +1,25 @@
+// custom variables
+$primary: #f5df4d;
+$secondary: rgb(147,149,151);
+$light: rgb(172,163,202);
+
+
+// Test
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// Tested CSS custom variables and is working
+h1{
+    color: $primary;
+}
+h2{
+    color: $secondary;
+}
+p{
+    color: $light;
+}
+// import boostrap - update the value ABOVE the import
+@import '../node_modules/bootstrap/scss/bootstrap';
