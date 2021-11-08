@@ -1,0 +1,22 @@
+{
+  "name": "baggiolo_vct2121_bootstrap_temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaggioLo/baggioLo_VCT2121_Bootstrap_Temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaggioLo/baggioLo_VCT2121_Bootstrap_Temp/issues"
+  },
+  "homepage": "https://github.com/BaggioLo/baggioLo_VCT2121_Bootstrap_Temp#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
